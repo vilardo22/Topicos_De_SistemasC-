@@ -1,0 +1,15 @@
+C:\Users\GABRIELHENRIQUEVILAR\Topicos_de_Sistemas\Exercicios_Ambientacao\Exercicio1\bin\Debug\net8.0\Exercicio1.exe
+C:\Users\GABRIELHENRIQUEVILAR\Topicos_de_Sistemas\Exercicios_Ambientacao\Exercicio1\bin\Debug\net8.0\Exercicio1.deps.json
+C:\Users\GABRIELHENRIQUEVILAR\Topicos_de_Sistemas\Exercicios_Ambientacao\Exercicio1\bin\Debug\net8.0\Exercicio1.runtimeconfig.json
+C:\Users\GABRIELHENRIQUEVILAR\Topicos_de_Sistemas\Exercicios_Ambientacao\Exercicio1\bin\Debug\net8.0\Exercicio1.dll
+C:\Users\GABRIELHENRIQUEVILAR\Topicos_de_Sistemas\Exercicios_Ambientacao\Exercicio1\bin\Debug\net8.0\Exercicio1.pdb
+C:\Users\GABRIELHENRIQUEVILAR\Topicos_de_Sistemas\Exercicios_Ambientacao\Exercicio1\obj\Debug\net8.0\Exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GABRIELHENRIQUEVILAR\Topicos_de_Sistemas\Exercicios_Ambientacao\Exercicio1\obj\Debug\net8.0\Exercicio1.AssemblyInfoInputs.cache
+C:\Users\GABRIELHENRIQUEVILAR\Topicos_de_Sistemas\Exercicios_Ambientacao\Exercicio1\obj\Debug\net8.0\Exercicio1.AssemblyInfo.cs
+C:\Users\GABRIELHENRIQUEVILAR\Topicos_de_Sistemas\Exercicios_Ambientacao\Exercicio1\obj\Debug\net8.0\Exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\GABRIELHENRIQUEVILAR\Topicos_de_Sistemas\Exercicios_Ambientacao\Exercicio1\obj\Debug\net8.0\Exercicio1.sourcelink.json
+C:\Users\GABRIELHENRIQUEVILAR\Topicos_de_Sistemas\Exercicios_Ambientacao\Exercicio1\obj\Debug\net8.0\Exercicio1.dll
+C:\Users\GABRIELHENRIQUEVILAR\Topicos_de_Sistemas\Exercicios_Ambientacao\Exercicio1\obj\Debug\net8.0\refint\Exercicio1.dll
+C:\Users\GABRIELHENRIQUEVILAR\Topicos_de_Sistemas\Exercicios_Ambientacao\Exercicio1\obj\Debug\net8.0\Exercicio1.pdb
+C:\Users\GABRIELHENRIQUEVILAR\Topicos_de_Sistemas\Exercicios_Ambientacao\Exercicio1\obj\Debug\net8.0\Exercicio1.genruntimeconfig.cache
+C:\Users\GABRIELHENRIQUEVILAR\Topicos_de_Sistemas\Exercicios_Ambientacao\Exercicio1\obj\Debug\net8.0\ref\Exercicio1.dll
