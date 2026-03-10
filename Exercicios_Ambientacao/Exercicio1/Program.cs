@@ -1,12 +1,9 @@
 ﻿//Exercicio 01
 //Escrever um algoritmo que receba a altura e a largura de um retângulo e calcule a sua área.
 // See https://aka.ms/new-console-template for more information
-using System;
 
-class Program
-{
-    static void Main()
-    {
+
+
         double altura;
         double largura;
         double area;
@@ -19,6 +16,3 @@ class Program
 
         area = altura * largura;
         Console.WriteLine("A área do retângulo é: " + area);
-
-    }
-}
