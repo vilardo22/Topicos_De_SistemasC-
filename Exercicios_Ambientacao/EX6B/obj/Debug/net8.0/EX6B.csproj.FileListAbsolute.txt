@@ -1,0 +1,15 @@
+C:\Users\GABRIELHENRIQUEVILAR\Documents\Topicos_De_SistemasC-\Exercicios_Ambientacao\EX6B\bin\Debug\net8.0\EX6B.exe
+C:\Users\GABRIELHENRIQUEVILAR\Documents\Topicos_De_SistemasC-\Exercicios_Ambientacao\EX6B\bin\Debug\net8.0\EX6B.deps.json
+C:\Users\GABRIELHENRIQUEVILAR\Documents\Topicos_De_SistemasC-\Exercicios_Ambientacao\EX6B\bin\Debug\net8.0\EX6B.runtimeconfig.json
+C:\Users\GABRIELHENRIQUEVILAR\Documents\Topicos_De_SistemasC-\Exercicios_Ambientacao\EX6B\bin\Debug\net8.0\EX6B.dll
+C:\Users\GABRIELHENRIQUEVILAR\Documents\Topicos_De_SistemasC-\Exercicios_Ambientacao\EX6B\bin\Debug\net8.0\EX6B.pdb
+C:\Users\GABRIELHENRIQUEVILAR\Documents\Topicos_De_SistemasC-\Exercicios_Ambientacao\EX6B\obj\Debug\net8.0\EX6B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GABRIELHENRIQUEVILAR\Documents\Topicos_De_SistemasC-\Exercicios_Ambientacao\EX6B\obj\Debug\net8.0\EX6B.AssemblyInfoInputs.cache
+C:\Users\GABRIELHENRIQUEVILAR\Documents\Topicos_De_SistemasC-\Exercicios_Ambientacao\EX6B\obj\Debug\net8.0\EX6B.AssemblyInfo.cs
+C:\Users\GABRIELHENRIQUEVILAR\Documents\Topicos_De_SistemasC-\Exercicios_Ambientacao\EX6B\obj\Debug\net8.0\EX6B.csproj.CoreCompileInputs.cache
+C:\Users\GABRIELHENRIQUEVILAR\Documents\Topicos_De_SistemasC-\Exercicios_Ambientacao\EX6B\obj\Debug\net8.0\EX6B.sourcelink.json
+C:\Users\GABRIELHENRIQUEVILAR\Documents\Topicos_De_SistemasC-\Exercicios_Ambientacao\EX6B\obj\Debug\net8.0\EX6B.dll
+C:\Users\GABRIELHENRIQUEVILAR\Documents\Topicos_De_SistemasC-\Exercicios_Ambientacao\EX6B\obj\Debug\net8.0\refint\EX6B.dll
+C:\Users\GABRIELHENRIQUEVILAR\Documents\Topicos_De_SistemasC-\Exercicios_Ambientacao\EX6B\obj\Debug\net8.0\EX6B.pdb
+C:\Users\GABRIELHENRIQUEVILAR\Documents\Topicos_De_SistemasC-\Exercicios_Ambientacao\EX6B\obj\Debug\net8.0\EX6B.genruntimeconfig.cache
+C:\Users\GABRIELHENRIQUEVILAR\Documents\Topicos_De_SistemasC-\Exercicios_Ambientacao\EX6B\obj\Debug\net8.0\ref\EX6B.dll
