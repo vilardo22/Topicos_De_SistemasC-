@@ -17,12 +17,37 @@ for (int i = 0; i < vetor.Length; i++)
     vetor[i] = random.Next(1000);
 
 }
+
 for (int i = 0; i < vetor.Length; i++)
 {
     Console.Write(vetor[i] + " ");
 }
 //Passo a Passo
-    //1 - Criar um laço de repetição para percorrer o vetor
-    //2 -Comparar a posição atual com a proxima
-    //3- Se for maior vai trocar o valores
+//1 - Criar um laço de repetição para percorrer o vetor
+//2 -Comparar a posição atual com a proxima
+//3- Se for maior vai trocar o valores
 //4- Repetir o processo até ordenar o vetor
+bool troca = false;
+do
+
+{
+troca = false;
+    for (int i = 0; i < vetor.Length - 1; i++)
+    {
+        int atual = vetor[i];
+        int proxima = vetor[i + 1];
+        if (atual > proxima)
+        {
+            troca = true;
+            int auxiliar = atual;
+            vetor[i] = proxima;
+            vetor[i + 1] = auxiliar;
+        }
+
+    }
+} while (troca == true);
+Console.WriteLine("\n");
+for (int i = 0; i < vetor.Length; i++)
+{
+    Console.Write(vetor[i] + " ");
+}

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GABRIELHENRIQUEVILAR\\Topicos_de_Sistemas\\Exercicios_Ambientacao\\Exercicio6\\Exercicio6.csproj": {}
+    "C:\\Users\\GABRIELHENRIQUEVILAR\\Documents\\Topicos_De_SistemasC-\\Exercicios_Ambientacao\\Exercicio6\\Exercicio6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GABRIELHENRIQUEVILAR\\Topicos_de_Sistemas\\Exercicios_Ambientacao\\Exercicio6\\Exercicio6.csproj": {
+    "C:\\Users\\GABRIELHENRIQUEVILAR\\Documents\\Topicos_De_SistemasC-\\Exercicios_Ambientacao\\Exercicio6\\Exercicio6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GABRIELHENRIQUEVILAR\\Topicos_de_Sistemas\\Exercicios_Ambientacao\\Exercicio6\\Exercicio6.csproj",
+        "projectUniqueName": "C:\\Users\\GABRIELHENRIQUEVILAR\\Documents\\Topicos_De_SistemasC-\\Exercicios_Ambientacao\\Exercicio6\\Exercicio6.csproj",
         "projectName": "Exercicio6",
-        "projectPath": "C:\\Users\\GABRIELHENRIQUEVILAR\\Topicos_de_Sistemas\\Exercicios_Ambientacao\\Exercicio6\\Exercicio6.csproj",
+        "projectPath": "C:\\Users\\GABRIELHENRIQUEVILAR\\Documents\\Topicos_De_SistemasC-\\Exercicios_Ambientacao\\Exercicio6\\Exercicio6.csproj",
         "packagesPath": "C:\\Users\\GABRIELHENRIQUEVILAR\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GABRIELHENRIQUEVILAR\\Topicos_de_Sistemas\\Exercicios_Ambientacao\\Exercicio6\\obj\\",
+        "outputPath": "C:\\Users\\GABRIELHENRIQUEVILAR\\Documents\\Topicos_De_SistemasC-\\Exercicios_Ambientacao\\Exercicio6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GABRIELHENRIQUEVILAR\\AppData\\Roaming\\NuGet\\NuGet.Config"

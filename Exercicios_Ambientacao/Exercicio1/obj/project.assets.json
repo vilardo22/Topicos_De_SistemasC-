@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GABRIELHENRIQUEVILAR\\Topicos_de_Sistemas\\Exercicios_Ambientacao\\Exercicio1\\Exercicio1.csproj",
+      "projectUniqueName": "C:\\Users\\GABRIELHENRIQUEVILAR\\Documents\\Topicos_De_SistemasC-\\Exercicios_Ambientacao\\Exercicio1\\Exercicio1.csproj",
       "projectName": "Exercicio1",
-      "projectPath": "C:\\Users\\GABRIELHENRIQUEVILAR\\Topicos_de_Sistemas\\Exercicios_Ambientacao\\Exercicio1\\Exercicio1.csproj",
+      "projectPath": "C:\\Users\\GABRIELHENRIQUEVILAR\\Documents\\Topicos_De_SistemasC-\\Exercicios_Ambientacao\\Exercicio1\\Exercicio1.csproj",
       "packagesPath": "C:\\Users\\GABRIELHENRIQUEVILAR\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GABRIELHENRIQUEVILAR\\Topicos_de_Sistemas\\Exercicios_Ambientacao\\Exercicio1\\obj\\",
+      "outputPath": "C:\\Users\\GABRIELHENRIQUEVILAR\\Documents\\Topicos_De_SistemasC-\\Exercicios_Ambientacao\\Exercicio1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\GABRIELHENRIQUEVILAR\\AppData\\Roaming\\NuGet\\NuGet.Config"
