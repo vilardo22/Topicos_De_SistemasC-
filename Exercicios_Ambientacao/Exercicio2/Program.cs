@@ -1,6 +1,38 @@
-﻿//Crie um algoritmo que permita fazer três conversões monetárias. O algoritmo deve receber o valor em real (R$) e apresentar os valores convertidos em:
+﻿
+double cotacaoDollar = 5.17;
+double cotacaoEuro = 6.14;
+double cotacaoPeso = 0.05;
 
-//1. Dólar (1 dólar = 5,17 reais)
-//2. Euro (1 euro = 6,14 reais)
-//3. Peso argentino (1 peso argentino = 0,05 reais)
+Console.Write("Qual seu valor em reais (R$)? ");
+double reais = Convert.ToDouble(Console.ReadLine());
+
+Console.WriteLine("Para qual moeda deseja converter?");
+Console.WriteLine("1 - Dólar | 2 - Euro | 3 - Peso Argentino");
+string operacao = Console.ReadLine(); 
+
+
+if (operacao == "1") 
+{
+    double resultado = ConverterParaDollar(reais, cotacaoDollar);
+    Console.WriteLine($"R$ {reais} equivalem a $ {resultado:F2} Dólares.");
+}
+else if (operacao == "2")
+{
+    double resultado = ConverterParaEuro(reais, cotacaoEuro);
+    Console.WriteLine($"R$ {reais} equivalem a € {resultado:F2} Euros.");
+}
+else if (operacao == "3")
+{
+    double resultado = ConverterParaPeso(reais, cotacaoPeso);
+    Console.WriteLine($"R$ {reais} equivalem a $ {resultado:F2} Pesos Argentinos.");
+}
+else 
+{
+    Console.WriteLine("Opção inválida!");
+}
+
+
+double ConverterParaDollar(double r, double d) => r / d;
+double ConverterParaEuro(double r, double e) => r / e;
+double ConverterParaPeso(double r, double p) => r / p;
 

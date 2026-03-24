@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\GABRIELHENRIQUEVILAR\\.nuget\\packages\\": {}
+    "C:\\Users\\jooxu\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GABRIELHENRIQUEVILAR\\Documents\\Topicos_De_SistemasC-\\Exercicios_Ambientacao\\Exercicio6\\Exercicio6.csproj",
+      "projectUniqueName": "C:\\Users\\jooxu\\Documents\\Topicos_De_SistemasC-\\Exercicios_Ambientacao\\Exercicio6\\Exercicio6.csproj",
       "projectName": "Exercicio6",
-      "projectPath": "C:\\Users\\GABRIELHENRIQUEVILAR\\Documents\\Topicos_De_SistemasC-\\Exercicios_Ambientacao\\Exercicio6\\Exercicio6.csproj",
-      "packagesPath": "C:\\Users\\GABRIELHENRIQUEVILAR\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GABRIELHENRIQUEVILAR\\Documents\\Topicos_De_SistemasC-\\Exercicios_Ambientacao\\Exercicio6\\obj\\",
+      "projectPath": "C:\\Users\\jooxu\\Documents\\Topicos_De_SistemasC-\\Exercicios_Ambientacao\\Exercicio6\\Exercicio6.csproj",
+      "packagesPath": "C:\\Users\\jooxu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jooxu\\Documents\\Topicos_De_SistemasC-\\Exercicios_Ambientacao\\Exercicio6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\GABRIELHENRIQUEVILAR\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\jooxu\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.406/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.419/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
