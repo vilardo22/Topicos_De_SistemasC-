@@ -1,44 +1,53 @@
 var builder = WebApplication.CreateBuilder(args);
-
-// Add services to the container.
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
-builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
-
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
+var produtos = new List<Produto>
 {
-    app.UseSwagger();
-    app.UseSwaggerUI();
-}
-
-app.UseHttpsRedirection();
-
-var summaries = new[]
-{
-    "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+    new Produto { Nome = "Notebook" },
+    new Produto { Nome = "Smartphone" },
+    new Produto { Nome = "Teclado" },
+    new Produto { Nome = "Mouse" },
+    new Produto { Nome = "Monitor" },
+    new Produto { Nome = "Headset" },
+    new Produto { Nome = "Webcam" },
+    new Produto { Nome = "Impressora" },
+    new Produto { Nome = "Tablet" },
+    new Produto { Nome = "HD Externo" }
 };
 
-app.MapGet("/weatherforecast", () =>
-{
-    var forecast =  Enumerable.Range(1, 5).Select(index =>
-        new WeatherForecast
-        (
-            DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
-            Random.Shared.Next(-20, 55),
-            summaries[Random.Shared.Next(summaries.Length)]
-        ))
-        .ToArray();
-    return forecast;
-})
-.WithName("GetWeatherForecast")
-.WithOpenApi();
+// Endpoints
+app.MapGet("/", () => "API de Produtos!");
 
+app.MapGet("/api/produto/listar", () => {
+    return produtos;
+});
+
+//post: /API/PRODUTO/CADASTRAR
+app.MapPost("/api/produto/cadastrar", () =>
+{
+    Produto produto1 = new Produto
+    {
+        Nome = "MousePad"
+    };
+   
+
+    Produto produto2 = new Produto();
+    produto2.Nome = "Cooler";
+    produtos.Add(produto1);
+    produtos.Add(produto2);
+
+
+});
+
+
+// RODAR A APLICAÇÃO
 app.Run();
 
-record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
+
+// ==========================================
+// DECLARAÇÃO DA CLASSE NO FINAL DO ARQUIVO
+// ==========================================
+public class Produto
 {
-    public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
+    public string Nome { get; set; }
 }
