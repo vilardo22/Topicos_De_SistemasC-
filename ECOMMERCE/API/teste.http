@@ -1,10 +1,10 @@
-###
+###home
 GET http://localhost:5232
 
 ###
 POST http://localhost:5232/funcionalidade
 
-###
+###listar
 GET  http://localhost:5232/api/produto/listar
 
 ### Cadastrar Produto
@@ -12,5 +12,11 @@ POST   http://localhost:5232/api/produto/cadastrar
 Content-Type: application/json
 
 {
-    "nome" : "MousePad",
+    "nome": "Cadeira Gamer",
+    "preco": 1200.50
 }
+
+####
+###listar
+GET  http://localhost:5232/api/produto/buscar/5d193cac-4948-412a-8bec-29fa57d2ec98
+Content-Type: application/json
