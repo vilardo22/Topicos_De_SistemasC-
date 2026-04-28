@@ -4,19 +4,23 @@ namespace API.Models;
 
 public class Produto
 {
-    //Atributo, Propriedade e característica - C#
-    public string Nome { get; set;}
+    // C# usa PascalCase para propriedades
+    public string Id { get; set; }
+    public string Nome { get; set; } = string.Empty; // Inicializa para evitar null warning
+    public double Preco { get; set; }
+    public DateTime CriadoEm { get; set; }
+    
+    public int Quantidade { get; set; }
+    // Construtor
+    public Produto()
+    {
+        // CORREÇÃO: Faltava o () no final do ToString
+        Id = Guid.NewGuid().ToString();
 
+        // Inicializamos a data aqui para garantir que o valor seja do momento da criação
+        CriadoEm = DateTime.Now;
+    }
 
-    //Atributo, Propriedade e característica - Java
-    // private string nome;
-    // public string getNome(){
-    //     return nome;
-    // }
-
-    // public void setNome(string nome)
-    // {
-    //     this.nome = nome;
-    // }
-
+    // O seu comentário sobre Java está certíssimo! 
+    // No C#, o { get; set; } já faz o papel do Getter e Setter automaticamente.
 }
